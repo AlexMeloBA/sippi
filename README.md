@@ -1,14 +1,14 @@
 # sippi
-SIPPI - Sistema de Identificação e Proteção de Propriedade Intelectual
+**SIPPI - Sistema de Identificação e Proteção de Propriedade Intelectual**
 
 O SIPPI é um sistema dedicado à identificação e proteção de propriedade intelectual.
 O objetivo é ajudar Empresas e indivíduos a protegerem e valorizarem seus ativos de propriedade intelectual.
 
 O Sistema é uma Obra da Turma 2023 do Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para Inovação
 
-Orientadora Profa. Dra. Célia Regina Simonetti Barbalho
+**Orientadora** Profa. Dra. Célia Regina Simonetti Barbalho
 
-Mestrandos:
+# Mestrandos:
     Alansander
     Alice Areque
     Alex Melo
