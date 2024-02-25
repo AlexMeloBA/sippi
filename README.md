@@ -6,6 +6,8 @@ O objetivo é ajudar Empresas e indivíduos a protegerem e valorizarem seus ativ
 
 O Sistema é uma Obra da Turma 2023 do Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para Inovação
 
+**UFAM - Mestrado Profissional - PROFNIT 2023**
+
 **Orientadora:** Profa. Dra. Célia Regina Simonetti Barbalho
 
 # Mestrandos:
