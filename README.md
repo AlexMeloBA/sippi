@@ -1,5 +1,5 @@
-# sippi
-### SIPPI - Sistema de Identificação e Proteção de Propriedade Intelectual
+# SIPPI
+### Sistema de Identificação e Proteção de Propriedade Intelectual
 
 O SIPPI é um sistema dedicado à identificação e proteção de propriedade intelectual.
 O objetivo é ajudar Empresas e indivíduos a protegerem e valorizarem seus ativos de propriedade intelectual.
