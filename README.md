@@ -11,13 +11,14 @@ O Sistema é uma Obra da Turma 2023 do Programa de Pós-Graduação em Proprieda
 **Orientadora:** Profa. Dra. Célia Regina Simonetti Barbalho
 
 # Mestrandos:
-- Alansander
+- Alansander Carneiro
 - Alice Areque
-- Alex Melo
-- André
-- Hugo
-- Márcia
-- Marcela
-- Raquel
-- Samya
-- Yanka
+- Alex Melo (Desenvolvedor)
+- André Bagetto
+- Hugo Badaró
+- Márcia Auzier
+- Marcela Fróes
+- Raquel Lima
+- Samya Cordeiro
+- Yanka Senna
+- Jéssica Hellen
