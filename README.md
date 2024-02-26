@@ -16,9 +16,9 @@ O Sistema é uma Obra da Turma 2023 do Programa de Pós-Graduação em Proprieda
 - Alex Melo (Desenvolvedor)
 - André Bagetto
 - Hugo Badaró
+- Jéssica Hellen
 - Márcia Auzier
 - Marcela Fróes
 - Raquel Lima
 - Samya Cordeiro
 - Yanka Senna
-- Jéssica Hellen
