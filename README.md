@@ -4,7 +4,7 @@
 O SIPPI é um sistema dedicado à identificação e proteção de propriedade intelectual.
 O objetivo é ajudar Empresas e indivíduos a protegerem e valorizarem seus ativos de propriedade intelectual.
 
-O Sistema é uma Obra da Turma 2023 do Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para Inovação
+O Sistema é uma Obra da Turma 2023 do Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação
 
 **UFAM - Mestrado Profissional - PROFNIT 2023**
 
