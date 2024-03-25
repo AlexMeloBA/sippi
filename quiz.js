@@ -436,24 +436,25 @@ const quizData = [
   { resultado: // Índice 82 PATENTES
     `
   <div>
-      <strong>Relatório de Avaliação para Registro de Patentes (TCI)</strong><br>
-      <p><strong>Resumo da Avaliação:</strong> A análise das informações fornecidas indica que sua topografia de circuito integrado é elegível para proteção sob a legislação de Topografias de Circuitos Integrados. Este relatório oferece um resumo das etapas recomendadas para registrar sua topografia e assegurar sua proteção efetiva.</p>
-      <p><strong>Critérios Atendidos:</strong><br>
-          - Originalidade: A topografia é resultado do esforço intelectual do criador, apresentando uma combinação única de elementos e interconexões.<br>
-          - Reprodução Industrial: A topografia pode ser reproduzida em escala industrial.<br>
-          - Não Divulgação: A topografia não foi previamente divulgada em eventos ou publicações científicas, mantendo sua novidade.
-      </p>
-      <p><strong>Etapas Recomendadas para Registro:</strong><br>
-          1. Acesso ao Portal do INPI: Inicie o processo acessando o portal do INPI e criando um cadastro com login e senha.<br>
-          2. Emissão do Boleto de Pagamento: Utilize o módulo GRU para emitir o boleto de pagamento das taxas necessárias.<br>
-          3. Preenchimento do Formulário Eletrônico e-Chip: Acesse o formulário eletrônico e-Chip no portal do INPI, preenchendo-o com todas as informações requeridas e anexando a documentação necessária.<br>
-          4. Conferência e Envio: Confira todas as informações declaradas, finalize o preenchimento do formulário e envie. Um número de pedido será gerado.
-      </p>
-      <p><strong>Observações Importantes:</strong><br>
-          - A proteção concedida à topografia de circuitos integrados é válida por 10 anos a partir da data de registro ou da primeira exploração comercial em qualquer lugar do mundo.<br>
-          - É recomendável a consulta a um profissional especializado para auxiliar no processo de registro e garantir a conformidade com todas as exigências legais.
-      </p>
-  </div>
+    <strong>Relatório de Avaliação para Registro de Patente</strong><br>
+    <p><strong>Resumo da Avaliação:</strong> Baseando-nos nas informações fornecidas, determinamos que sua inovação possui potencial para ser protegida por uma patente. Este relatório detalha as etapas recomendadas para o registro de sua patente, garantindo a proteção efetiva de sua inovação.</p>
+    <p><strong>Critérios Atendidos:</strong><br>
+        - Novidade: Sua inovação é nova e não foi divulgada previamente.<br>
+        - Atividade Inventiva: Sua inovação não é óbvia para especialistas na área.<br>
+        - Aplicabilidade Industrial: Sua inovação pode ser aplicada em qualquer tipo de indústria.
+    </p>
+    <p><strong>Etapas Recomendadas para Registro:</strong><br>
+        1. Documentação Detalhada: Prepare uma descrição completa da inovação.<br>
+        2. Busca de Anterioridade: Verifique se a inovação já existe.<br>
+        3. Submissão ao INPI: Submeta o pedido de patente, acompanhado das taxas necessárias.<br>
+        4. Acompanhamento do Processo: Esteja preparado para responder a possíveis exigências.
+    </p>
+    <p><strong>Observações Importantes:</strong><br>
+        - A proteção por patente é limitada no tempo, geralmente 20 anos.<br>
+        - A patente protege sua inovação contra uso, fabricação e venda não autorizados.
+    </p>
+    <p><strong>Próximos Passos:</strong> Recomendamos seguir as etapas detalhadas para garantir a proteção de sua inovação sob a lei de patentes, considerando a contratação de um profissional especializado para auxiliar no processo.</p>
+</div>
 `
 },
   { resultado: // Índice 83 MARCA
